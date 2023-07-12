@@ -29,7 +29,6 @@
 <hr/>
 <br/>
 
-
 <p align="center">
   <a href="https://github.com/kamsnyc">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamsnyc&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -73,3 +72,22 @@
   <a href="[https://github.com/KamsNyc/Swiftlink_Site]">
   </a>
 </p>
+
+<br/>
+<hr/>
+<br/>
+
+<h1 align=center>Current Projects</h1>
+
+<h1 align=center>GourmetMeal App</h1> 
+<p align=center>Gourmetmeals is an awesome food delivery app powered by the MealMe API. It lets you easily find and order gourmet meals from local restaurants, with a user-friendly interface, detailed restaurant listings, and secure checkout. Enjoy the convenience of order tracking, personalized user accounts, and sharing your thoughts through ratings and reviews.</p>
+<br>
+<br>
+
+![ezgif com-resize](https://github.com/KamsNyc/KamsNyc/assets/132626852/951ea142-c0c0-4ec4-83bc-18bad795ad50)
+<h1 align=center>Swiftlink Website</h1>
+<p align=center>Swiftlink is a versatile link management solution that empowers users to shorten URLs, generate QR codes, and create customizable links in bio menus. With Swiftlink, anyone can effortlessly manage their links, enhance their online presence, and optimize user experiences. Simplify and amplify your digital journey with Swiftlink.</p>
+<br>
+<br>
+
+![ezgif com-resize (1)](https://github.com/KamsNyc/KamsNyc/assets/132626852/a9a4452c-ce4c-4566-83cc-9df53193986f) 
