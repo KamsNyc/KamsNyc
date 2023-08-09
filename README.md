@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Kamel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
+<h3 align="center">www.kamelsingh.me</h3> 
 <p align="center">
   <a href="https://github.com/KamsNyc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+curious+human;UI+/+UX+Designer;Full+Stack+Web+Developer;#100devs;Aspiring+Learner&center=true&width=500&height=50&text-align=center"></a>
 </p>
