@@ -58,19 +58,6 @@
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/KamsNyc">KamsNyc</a></p>
 
-<p align="center">
-  <a href="[https://github.com/KamsNyc/Swiftlink_Site]">
-  </a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<h1 align=center>Current Projects</h1>
-
-<h1 align=center>GourmetMeal App</h1> 
-<p align=center>Gourmetmeals is an awesome food delivery app powered by the MealMe API. It lets you easily find and order gourmet meals from local restaurants, with a user-friendly interface, detailed restaurant listings, and secure checkout. Enjoy the convenience of order tracking, personalized user accounts, and sharing your thoughts through ratings and reviews.</p>
 <br>
 <br>
 
